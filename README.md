@@ -7,10 +7,13 @@ A [`Docker meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
 
 ### What, Why? Our motivation to pull this off
 
+In a sentence [Docker](https://github.com/dotcloud/docker) is: `An open source project to pack, ship and run any application as a lightweight container`, open sourced by dotcloud, now known as docker.inc. 
 
 
-What we would like to see with this meetup:
-* More members of the Lisbon Dev community to participate in open source projects.
+
+
+What we would like to bring with this meetup:
+* More members of the Lisbon Dev community to participate in open source projects, specially connected with Docker.
 * Create a iterative feedback cycle, letting members share their latest developments and ideas with docker
 * Have special training events, so everyone gets up to speed with the technology
 
