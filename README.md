@@ -7,7 +7,8 @@ A [`Docker meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
 
 ### What, Why? Our motivation to pull this off
 
-In a sentence [Docker](https://github.com/dotcloud/docker) is: `An open source project to pack, ship and run any application as a lightweight container`. 
+In a sentence [Docker](https://github.com/dotcloud/docker) is: `An open source project to pack, ship and run any application as a lightweight container.`
+ 
 Open sourced by dotcloud, now known as docker.inc. 
 
 
