@@ -3,7 +3,7 @@ docker-lisbon
 
 ![whale](http://www.docker.io/static/img/homepage-docker-logo.png)
 
-A Docker [`meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
+A [`Docker meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
 
 ### What, Why? Our motivation to pull this off
 
@@ -15,7 +15,7 @@ What we would like to see with this meetup:
 * Have special training events, so everyone gets up to speed with the technology
 
 
-### Past meetups
+### Meetups
 * [first meetup](https://github.com/docker-lisbon/1st-meetup) 06/02/2014
 
 ### Upcoming meetups
