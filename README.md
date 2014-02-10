@@ -38,7 +38,7 @@ Use any of the following methods to communicate with us:
 * Submit a workshop proposal (prefix with "Workshop: ").
 * Join the group on [`meetups`](http://www.meetup.com/Docker-Lisbon) to stay updated with info of the next meetups.
 
-## We are on gitter.im!!
+## We are on gitter.im
 
 Join the meetup realtime chat discussion on gitter.im, all you have to do is open [https://gitter.im/docker-lisbon/group](https://gitter.im/docker-lisbon/group)
 
