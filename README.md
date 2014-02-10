@@ -1,6 +1,8 @@
 docker-lisbon
 ===============
 
+[![Gitter chat](https://badges.gitter.im/docker-lisbon/group.png)](https://gitter.im/docker-lisbon/group)
+
 ![whale](http://www.docker.io/static/img/homepage-docker-logo.png)
 
 A [`Docker meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
@@ -36,6 +38,11 @@ Use any of the following methods to communicate with us:
 * Submit a workshop proposal (prefix with "Workshop: ").
 * Join the group on [`meetups`](http://www.meetup.com/Docker-Lisbon) to stay updated with info of the next meetups.
 
+## We are on gitter.im!!
+
+Join the meetup realtime chat discussion on gitter.im, all you have to do is open [https://gitter.im/docker-lisbon/group](https://gitter.im/docker-lisbon/group)
+
+[![Gitter chat](https://badges.gitter.im/docker-lisbon/group.png)](https://gitter.im/docker-lisbon/group)
 
 ## Organizers
 
