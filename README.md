@@ -1,7 +1,7 @@
 docker-lisbon
 ===============
 
-[![Gitter chat](https://badges.gitter.im/dockerlisbon/group.png)](https://gitter.im/dockerlisbon/group)
+[![Gitter chat](https://badges.gitter.im/dockerlisbon/community.png)](https://gitter.im/dockerlisbon/community)
 
 ![whale](http://www.docker.io/static/img/homepage-docker-logo.png)
 
