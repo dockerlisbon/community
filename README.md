@@ -3,8 +3,6 @@ docker-lisbon
 
 [![Gitter chat](https://badges.gitter.im/dockerlisbon/community.png)](https://gitter.im/dockerlisbon/community)
 
-![whale](http://www.docker.io/static/img/homepage-docker-logo.png)
-
 A [`Docker meetup`](http://www.meetup.com/Docker-Lisbon) in Lisbon, Portugal.
 
 ### What, Why? Our motivation to pull this off
