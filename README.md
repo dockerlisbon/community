@@ -38,9 +38,9 @@ Use any of the following methods to communicate with us:
 
 ## We are on gitter.im
 
-Join the meetup realtime chat discussion on gitter.im, all you have to do is open [https://gitter.im/docker-lisbon/group](https://gitter.im/docker-lisbon/group)
+Join the meetup realtime chat discussion on gitter.im, all you have to do is open [https://gitter.im/dockerlisbon](https://gitter.im/dockerlisbon)
 
-[![Gitter chat](https://badges.gitter.im/docker-lisbon/group.png)](https://gitter.im/docker-lisbon/group)
+[![Gitter chat](https://badges.gitter.im/dockerlisbon/group.png)](https://gitter.im/dockerlisbon)
 
 ## Organizers
 
